@@ -1,0 +1,13 @@
+body{
+font-family: Verdana;
+background-color: maroon;
+}
+
+h1, h2, h3{
+font-size: medium;
+}
+
+a.nav:hover{
+font-weight: bold;
+font-style: italic;
+}

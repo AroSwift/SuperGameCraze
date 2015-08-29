@@ -1,0 +1,16 @@
+User-agent: *
+Allow: /default.php
+Allow: /News.php
+Allow: /Download.php
+Allow: /Donate.php
+Allow: /Copyright.php
+Allow: /Contact.php
+Allow: /Instructions.php
+Allow: /TroubleShooting.php
+Disallow: /Menu.php
+Disallow: /Thankyou.php
+Disallow: /SendMail.php
+Disallow: /Thankyoudonate.php
+Disallow: /crusader.swf
+Disallow: /Uploadyourgames/
+Disallow: /dbboon/
